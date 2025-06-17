@@ -9,9 +9,6 @@
 - **Location-based Updates**: Get weather data for your current location using device GPS.
 - **User-friendly Interface**: A sleek and easy-to-navigate design.
 
-## Screenshots
-![WeatherApp Screenshot](img.png)
-
 ## Tech Stack
 - **Framework**: [Flutter](https://flutter.dev/) - for creating cross-platform mobile apps.
 - **API**: [OpenWeatherMap API](https://openweathermap.org/api) - for fetching real-time weather data.
